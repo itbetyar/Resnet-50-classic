@@ -1,4 +1,4 @@
-# ResNet-50 Képosztályozó | IT Betyár
+# ResNet-50-classic | Képosztályozó | IT Betyár
 
 <img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/img-assets/resnet-minta-ai-app2.webp" alt="ResNet-50 Demo" width="350">
 
