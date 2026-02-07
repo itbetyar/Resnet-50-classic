@@ -1,22 +1,14 @@
 # ResNet-50 Képosztályozó | IT Betyár
 
+<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/resnet-minta-ai-app2.webp" alt="ResNet-50 Demo" width="350">
+
 Egyszerű oktatási célú AI modell minta képfelismerésre ResNet-50 architektúrával.
 
-[![🚀 IT Betyár Demo](https://img.shields.io/badge/🚀_IT_Betyár-Élő_Demo-orange)](https://itbetyar.hu/project/computer-vision-resnet-50/)
-[![🤗 Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Space-yellow)](https://huggingface.co/spaces/itbetyar/3-Resnet-50-Classification)
-
-[![🎓 Tanfolyam](https://img.shields.io/badge/🎓_AI_Tanfolyam-itbetyar.hu-green)](https://itbetyar.hu/mesterseges-intelligencia-fejleszto-tanfolyam/)
-
----
-
-| Demo az itbetyar-on | Github project | Hugging Face demo |
-| :--- | :--- | :---|
+| IT Betyár Demo | GitHub Repository | Hugging Face Demo | AI Tanfolyam |
+| :---: | :---: | :---: | :---: |
+| [![🚀 IT Betyár Demo](https://img.shields.io/badge/🚀_IT_Betyár-Élő_Demo-orange)](https://itbetyar.hu/project/computer-vision-resnet-50/) | [![GitHub](https://img.shields.io/badge/GitHub-Resnet--50--classic-white?logo=github&logoColor=black)](https://github.com/itbetyar/Resnet-50-classic) | [![🤗 Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Space-yellow)](https://huggingface.co/spaces/itbetyar/3-Resnet-50-Classification) | [![🎓 Tanfolyam](https://img.shields.io/badge/🎓_AI_Tanfolyam-itbetyar.hu-green)](https://itbetyar.hu/mesterseges-intelligencia-fejleszto-tanfolyam/) |
 
 ---
-
-[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/itbetyar/3-Resnet-50-Classification)
-[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## 📖 Leírás
 
@@ -44,6 +36,9 @@ Ez a projekt egy **ResNet-50** konvolúciós neurális hálót használ képoszt
 | **Tanító adatszett** | ImageNet (~1.2 millió kép, 1000 kategória) |
 | **Algoritmus** | ResNet-50 (Residual Network - skip connection) |
 | **Számítási igény** | ~4.1 GFLOP |
+
+### A Resnet 50 - réteg - blokkvázlat
+<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/resnet-50-epochs.webp" alt="ResNet-50 Demo" width="350">
 
 ### Mai viszonyítás
 
@@ -83,6 +78,10 @@ Ez a projekt egy **ResNet-50** konvolúciós neurális hálót használ képoszt
     </tr>
   </tbody>
 </table>
+
+### A Resnet 50 - réteg - blokkvázlat
+<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/resnet50architektura.webp" alt="ResNet-50 Demo" width="500">
+
 
 **Összefoglalva:** A ResNet-50 ma már "klasszikus" modellnek számít - hatékony, gyors, de a modern AI modellek 100-1000x nagyobbak. Oktatásra/demo-ra viszont tökéletes! 🎯
 
