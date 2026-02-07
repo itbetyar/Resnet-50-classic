@@ -1,6 +1,6 @@
 # ResNet-50 Képosztályozó | IT Betyár
 
-<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/resnet-minta-ai-app2.webp" alt="ResNet-50 Demo" width="350">
+<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/img-assets/resnet-minta-ai-app2.webp" alt="ResNet-50 Demo" width="350">
 
 Egyszerű oktatási célú AI modell minta képfelismerésre ResNet-50 architektúrával.
 
@@ -38,7 +38,7 @@ Ez a projekt egy **ResNet-50** konvolúciós neurális hálót használ képoszt
 | **Számítási igény** | ~4.1 GFLOP |
 
 ### A Resnet 50 - réteg - blokkvázlat
-<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/resnet-50-epochs.webp" alt="ResNet-50 Demo" width="350">
+<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/img-assets/resnet-50-epochs.webp" alt="ResNet-50 Demo" width="350">
 
 ### Mai viszonyítás
 
@@ -80,7 +80,7 @@ Ez a projekt egy **ResNet-50** konvolúciós neurális hálót használ képoszt
 </table>
 
 ### A Resnet 50 - réteg - blokkvázlat
-<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/resnet50architektura.webp" alt="ResNet-50 Demo" width="500">
+<img src="https://raw.githubusercontent.com/itbetyar/Resnet-50-classic/refs/heads/main/img-assets/resnet50architektura.webp" alt="ResNet-50 Demo" width="500">
 
 
 **Összefoglalva:** A ResNet-50 ma már "klasszikus" modellnek számít - hatékony, gyors, de a modern AI modellek 100-1000x nagyobbak. Oktatásra/demo-ra viszont tökéletes! 🎯
